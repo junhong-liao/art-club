@@ -1,0 +1,1 @@
+/opt/homebrew/etc/ : mongodb directory, homebrew installation
