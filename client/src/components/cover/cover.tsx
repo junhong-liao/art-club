@@ -8,9 +8,9 @@ function Cover() {
       <div id="logincard">
         <div>
           <div id="logo"><i className="fa fa-pinterest" aria-hidden="true" /></div>
-          <div id="welcome">Welcome to Pinterest</div>
-          <div id="subheader">Find new ideas to try</div>
-          <div id="disclaimer">Cloned For Educational Purposes Only!</div>
+          <div id="welcome">Welcome to ArtClub</div>
+          <div id="subheader">Find inspiration and share your art</div>
+          <div id="disclaimer">Currently under development...</div>
           <div id="gitsource">
             <a href="https://github.com/Dereje1/Pinterest-Clone" target="_blank" rel="noopener noreferrer">
               <i className="fa fa-github" aria-hidden="true" />
