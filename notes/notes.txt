@@ -1,1 +1,18 @@
-/opt/homebrew/etc/ : mongodb directory, homebrew installation
+Ideas:
+    "Neighborhood for creatives"
+
+Mongodb:
+    /opt/homebrew/etc/ : mongodb directory, homebrew installation
+    /art-club/server/models/db.ts : database operations
+
+Login buttons for auth:
+    art-club/client/src/components/signin/loginbuttons.tsx
+
+Profile: 
+    art-club/client/src/components/profile/Profile.tsx
+    
+Search for users:
+    art-club/client/src/components/profile/SearchUsers.tsx
+
+User info:
+    art-club/client/src/components/mypins/UserInfo.tsx
